@@ -1,2 +1,3 @@
 ```math
-\ce{$\unicode[body{color:red};]{x0000}$}
+\ce{$\unicode[body{fonttext;color:red};]{x0000}$}
+dqwwdqqwd
