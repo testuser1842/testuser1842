@@ -1,4 +1,2 @@
 ```math
-\ce{$\unicode[color:pink]{x0000}$}
-```
-dqqwddqwqwd
+\ce{$\unicode[body{color:red};]{x0000}$}
